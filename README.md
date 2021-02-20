@@ -27,11 +27,13 @@
 
 <h3>GitHub Trophies</h3>
 <!-- Github trophy -->
+
 ![trophy](https://github-profile-trophy.vercel.app/?username=dikshitakambri&theme=onedark)
 
 <br>
 <!-- My stats -->
-<!-- ![Dikshita's github stats](https://github-readme-stats.vercel.app/api?username=dikshitakambri&theme=blue-green) -->
+
+![Dikshita's github stats](https://github-readme-stats.vercel.app/api?username=dikshitakambri&theme=blue-green) -->
 
 <br>
 
