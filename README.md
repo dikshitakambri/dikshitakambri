@@ -1,13 +1,13 @@
 <span><!--  ![](https://komarev.com/ghpvc/?username=dikshitakambri) -->
-<h1>->Hey, there I am Dikshita Kambri.👋<-</h1>
+<h1>>>>>>>>Hey, there I am Dikshita Kambri.👋<-</h1>
 <p>I am an undergraduate student at SIES GST pursuing B.E in EXTC. A curious mind who loves to learn new things. I am technology enthusiast and currently focused on Web development and ML. I am open for internships.😃<p>
 </span>
 
--><a href="https://twitter.com/KambriDikshita"><img src="Logo/twitter.png" width=5% style="text-align: center;"></a>
+>>>>><a href="https://twitter.com/KambriDikshita"><img src="Logo/twitter.png" width=5% style="text-align: center;"></a>
 <a href="https://www.linkedin.com/in/dikshita-kambri-2b110a19b/?originalSubdomain=in"><img src="Logo/linkedin.png" width=5%></a>
 <a href="https://www.quora.com/profile/Dikshita-Kambri/followers"><img src="Logo/quora.png" width=5%></a>
 <a href="https://www.youtube.com/channel/UCoyNVW5RuCjXX2BVBqexz9Q"><img src="Logo/youtube.png" width=5%></a>
-<a href="https://dikshitakambri18.medium.com/"><img src="Logo/medium.png" width=5%></a><-
+<a href="https://dikshitakambri18.medium.com/"><img src="Logo/medium.png" width=5%></a>
 
 <hr>
 <h2>About me</h2>
