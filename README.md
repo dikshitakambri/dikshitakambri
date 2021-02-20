@@ -25,6 +25,7 @@
 
 <br>
 
+<h3>GitHub Trophies</h3>
 <!-- Github trophy -->
 ![trophy](https://github-profile-trophy.vercel.app/?username=dikshitakambri&theme=onedark)
 
