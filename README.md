@@ -4,10 +4,10 @@
 </div>
 
 <div align="center">
-<a href="https://twitter.com/KambriDikshita"><img src="Logo/twitter.png" width=5% style="text-align: center;"></a><p> <p>
-<a href="https://www.linkedin.com/in/dikshita-kambri-2b110a19b/?originalSubdomain=in"><img src="Logo/linkedin.png" width=5%></a><p> <p>
-<a href="https://www.quora.com/profile/Dikshita-Kambri/followers"><img src="Logo/quora.png" width=5%></a><p> <p>
-<a href="https://www.youtube.com/channel/UCoyNVW5RuCjXX2BVBqexz9Q"><img src="Logo/youtube.png" width=5%></a><p> <p>
+<a href="https://twitter.com/KambriDikshita"><img src="Logo/twitter.png" width=5% style="text-align: center;"></a><span> </span>
+<a href="https://www.linkedin.com/in/dikshita-kambri-2b110a19b/?originalSubdomain=in"><img src="Logo/linkedin.png" width=5%></a><span> </span>
+<a href="https://www.quora.com/profile/Dikshita-Kambri/followers"><img src="Logo/quora.png" width=5%></a><span> </span>
+<a href="https://www.youtube.com/channel/UCoyNVW5RuCjXX2BVBqexz9Q"><img src="Logo/youtube.png" width=5%></a><span> </span>
 <a href="https://dikshitakambri18.medium.com/"><img src="Logo/medium.png" width=5%></a>
 </div>
 
