@@ -39,8 +39,8 @@
 
 <br>
 
-<!-- visitors 
-![Visitor Count](https://profile-counter.glitch.me/dikshitakambri/count.svg) -->
+ <!-- visitors  -->
+![Visitor Count](https://profile-counter.glitch.me/dikshitakambri/count.svg) 
 
 
 
