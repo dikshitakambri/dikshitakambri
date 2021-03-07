@@ -35,13 +35,13 @@
 <br>
 <!-- My stats -->
 
-![Dikshita's github stats](https://github-readme-stats.vercel.app/api?username=dikshitakambri&theme=blue-green) -->
+![Dikshita's github stats](https://github-readme-stats.vercel.app/api?username=dikshitakambri&theme=blue-green) 
 
 <br>
 
 
 
- <!-- visitors  -->
+<h3> Visitors </h3>
 ![Visitor Count](https://profile-counter.glitch.me/dikshitakambri/count.svg) 
 
 
