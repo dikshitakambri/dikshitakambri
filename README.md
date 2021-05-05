@@ -1,6 +1,6 @@
-<div align="center">
-
 ![Profile Views](https://komarev.com/ghpvc/?username=dikshitakambri&label=PROFILE+VIEWS)
+
+<div align="center">
 
 <h1 >Hey, there I am Dikshita Kambri.👋</h1>
 <p>I am an undergraduate student at SIES GST pursuing B.E in EXTC. A curious mind who loves to learn new things. I am technology enthusiast and currently focused on Web development and ML. I am open for internships.😃<p>
